@@ -67,7 +67,7 @@ def realizarCompra():
 
     print("\n=== TOTAL DE TODA LA COMPRA ===")
     print(f"Total acumulado a pagar: ${total_general:.2f}")
-
+#funcion para mostrar menu
 
 def menu():
     while True:
